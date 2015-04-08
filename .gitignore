@@ -59,6 +59,8 @@ doc/html
 doc/latex
 doc/man
 *.vcxproj.user
+*.suo
+opus.opensdf
 opus.sdf
 opus.suo
 package_version
